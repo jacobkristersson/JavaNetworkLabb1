@@ -1,0 +1,18 @@
+//Testing sockets with DaytimeClient
+
+import java.net.*;
+import java.io.*;
+
+public class DaytimeClient {
+	public static void main(String[] args) {
+		
+		String hostname = args.length > 0 ? args[0]: "time.nist.gov";
+		Socket socket = null;
+	;
+	}
+}
+
+
+
+
+
